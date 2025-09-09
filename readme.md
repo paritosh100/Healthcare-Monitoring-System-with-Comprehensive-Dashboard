@@ -18,7 +18,7 @@ Heart disease and diabetes drive a huge share of preventable hospitalizations. E
 
 ---
 
-## Repo layout (suggested)
+## Repo layout
 ```
 .
 ├─ backend/
